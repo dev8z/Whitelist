@@ -1,1 +1,7 @@
-["8yrxx", "User2", "User3"]
+{
+    "whitelist": [
+        "PlayerName1",
+        "PlayerName2",
+        "PlayerName3"
+    ]
+}
